@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan kharate</h1>
-<h3 align="center">"Mastering Both Client-Side and Server-Side Technologies"</h3>
-
-<img align="right" alt="coading"width="400"src="![image](https://github.com/rohankharate750/rohankharate750/assets/174642068/3935696a-54bf-4de4-8585-9f792f827315)">
+<h3 align="center">"Mastering Both Client-Side and Server-Side Technologies">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankharate750&label=Profile%20views&color=0e75b6&style=flat" alt="rohankharate750" /> </p>
